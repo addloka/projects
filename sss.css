@@ -1,0 +1,11 @@
+.container {
+	width: 1024px;
+	display: inline-flex ;
+  flex-direction: row-reverse;
+  }
+  ul {
+	width: 200px;
+  }
+  span {
+    width: 200px
+  }
